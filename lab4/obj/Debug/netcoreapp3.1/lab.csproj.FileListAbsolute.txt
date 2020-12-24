@@ -1,0 +1,26 @@
+C:\Users\ryali\source\repos\lab 4\lab 4\bin\Debug\netcoreapp3.1\laba4.exe
+C:\Users\ryali\source\repos\lab 4\lab 4\bin\Debug\netcoreapp3.1\laba4.deps.json
+C:\Users\ryali\source\repos\lab 4\lab 4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.json
+C:\Users\ryali\source\repos\lab 4\lab 4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.dev.json
+C:\Users\ryali\source\repos\lab 4\lab 4\bin\Debug\netcoreapp3.1\laba4.dll
+C:\Users\ryali\source\repos\lab 4\lab 4\bin\Debug\netcoreapp3.1\laba4.pdb
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\lab.csprojAssemblyReference.cache
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\lab.csproj.CoreCompileInputs.cache
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\lab.AssemblyInfoInputs.cache
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\lab.AssemblyInfo.cs
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\laba4.dll
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\laba4.pdb
+C:\Users\ryali\source\repos\lab 4\lab 4\obj\Debug\netcoreapp3.1\lab.genruntimeconfig.cache
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\bin\Debug\netcoreapp3.1\laba4.exe
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\bin\Debug\netcoreapp3.1\laba4.deps.json
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.json
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.dev.json
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\bin\Debug\netcoreapp3.1\laba4.dll
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\bin\Debug\netcoreapp3.1\laba4.pdb
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\lab.csprojAssemblyReference.cache
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\lab.AssemblyInfoInputs.cache
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\lab.AssemblyInfo.cs
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\lab.csproj.CoreCompileInputs.cache
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\laba4.dll
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\laba4.pdb
+C:\Users\ryali\Desktop\Учёба\лаба\lab 4\obj\Debug\netcoreapp3.1\lab.genruntimeconfig.cache
